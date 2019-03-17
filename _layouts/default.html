@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ page.language }}">
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} — #Blackout21</title>
+    <meta name="description" content="{{ page.description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet"> 
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css" rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link href="{{ '/assets/img/favicon.png' | relative_url }}" rel="icon" type="image/png">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:image" content="{{ '/assets/img/meta.png' | relative_url }}">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="#Blackout21">
+</head>
+<body>
+    <nav>
+        {% if page.language == "de" %}
+            <a href="{{ '/' | relative_url }}" hreflang="en" title="English version">EN</a>
+            <strong>DE</strong>
+        {% else %}
+            <strong>EN</strong>
+            <a href="{{ '/de/' | relative_url }}" hreflang="de" title="Deutsche Version">DE</a>
+        {% endif %}
+    </nav>
+    <main>
+        <h1>#Blackout21</h1>
+        
+        {{ content }}
+        
+        <footer>
+            <a href="https://twitter.com/hashtag/blackout21" target="_blank">#Blackout21</a> ·
+            <a href="https://twitter.com/hashtag/321EUOfflineDay" target="_blank">#321EUOfflineDay</a>
+        </footer>
+    </main>
+</body>
+</html>

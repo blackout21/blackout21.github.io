@@ -1,0 +1,59 @@
+$background: #030204;
+$foreground: #e9e8ea;
+
+body {
+    background: $background;
+    color: $foreground;
+    font: normal 20px/26px "Source Sans Pro", Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size: 80px;
+    font-weight: 900;
+}
+h1, h2, h3 {
+    line-height: 1.5em;
+}
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}
+blockquote {
+    border: 1px solid $foreground;
+    padding: 20px;
+    text-align: left;
+    margin: 10px;
+
+    &:last-child {
+        &:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+    }
+
+    h2, h3 {
+        margin-top: 0;
+    }
+}
+a, a:link {
+    color: $foreground;
+}
+nav {
+    font-size: .8em;
+    max-width: 800px;
+    margin: 30px auto 0;
+    text-align: right;
+    padding: 10px;
+}
+footer {
+    opacity: .8;
+    margin-top: 60px;
+}
+
+@media all and (max-width: 760px) {
+    h1 {
+        font-size: 40px;
+    }
+}
