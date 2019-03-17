@@ -34,11 +34,9 @@ everyone about the new [EU Copyright directive][2].
 
 ### What else can I do?
 
-> We ask you to [contact the Members of the European Parliament][3] and to inform them about your position on the planned reform.
-> 
-> We ask you to participate in the [demonstrations][4] that will take place on March 23, 2019 throughout Europe.
-> 
-> We ask you to participate in the [election][5] of the European Parliament on May 26, 2019.
+* We ask you to [contact the Members of the European Parliament][3] and to inform them about your position on the planned reform.
+* We ask you to participate in the [demonstrations][4] that will take place on March 23, 2019 throughout Europe.
+* We ask you to participate in the [election][5] of the European Parliament on May 26, 2019.
 
 [1]: https://de.wikipedia.org/wiki/Wikipedia:Meinungsbilder/Protest_gegen_EU-Urheberrechtsreform
 [2]: https://saveyourinternet.eu/

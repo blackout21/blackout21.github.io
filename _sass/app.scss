@@ -45,6 +45,23 @@ blockquote {
     }
 }
 
+ul {
+    border: 1px solid $foreground;
+    padding: 20px;
+    text-align: left;
+    margin: 10px;
+}
+
+table {
+    border-collapse: collapse;
+
+    td, td {
+        border: 1px solid $foreground;
+        margin: 0;
+        padding: 10px;
+    }
+}
+
 a, a:link {
     color: $foreground;
 }
