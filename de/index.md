@@ -34,11 +34,11 @@ und am 21. März bei dem Online-Protest gegen [die EU-Urheberrechtsreform][2] mi
 
 ### Was kann ich außerdem tun?
 
-Wir bitten dich die [Abgeordneten des Europäischen Parlaments zu kontaktieren][3] und sie über Ihre Haltung zur geplanten Reform zu informieren.
-
-Wir bitten dich an den [Demonstrationen][4] teilzunehmen, die am 23. März 2019 in ganz Europa stattfinden.
-
-Wir bitten dich am 26. Mai 2019 an der [Wahl des EU-Parlaments][5] teilzunehmen.
+> Wir bitten dich die [Abgeordneten des Europäischen Parlaments zu kontaktieren][3] und sie über Ihre Haltung zur geplanten Reform zu informieren.
+> 
+> Wir bitten dich an den [Demonstrationen][4] teilzunehmen, die am 23. März 2019 in ganz Europa stattfinden.
+> 
+> Wir bitten dich am 26. Mai 2019 an der [Wahl des EU-Parlaments][5] teilzunehmen.
 
 [1]: https://de.wikipedia.org/wiki/Wikipedia:Meinungsbilder/Protest_gegen_EU-Urheberrechtsreform
 [2]: https://saveyourinternet.eu/
