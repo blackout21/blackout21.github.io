@@ -8,4 +8,4 @@ language: de
 
 Hunderte Seiten sind gegen die Urheberrechtsreformen der EU, und wollen Wikipedia ebenfalls unterstützen! Darunter:
 
-{% include_relative supporters.md %}
+{% include supporters.md %}

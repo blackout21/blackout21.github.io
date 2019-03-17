@@ -8,4 +8,4 @@ language: en
 
 Those pages will shutdown their pages partially or fully on March, 21st:
 
-{% include_relative supporters.md %}
+{% include supporters.md %}
