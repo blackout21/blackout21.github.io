@@ -17,15 +17,17 @@
     <meta property="og:site_name" content="#Blackout21">
 </head>
 <body>
+    {% if page.language == "de" %}
     <nav>
-        {% if page.language == "de" %}
             <a href="{{ '/' | relative_url }}" hreflang="en" title="English version">EN</a>
-            <strong>DE</strong>
-        {% else %}
-            <strong>EN</strong>
-            <a href="{{ '/de/' | relative_url }}" hreflang="de" title="Deutsche Version">DE</a>
-        {% endif %}
+        <strong>DE</strong>
     </nav>
+    {% else %}
+    <nav>
+            <strong>EN</strong>
+        <a href="{{ '/de/' | relative_url }}" hreflang="de" title="Deutsche Version">DE</a>
+    </nav>
+    {% endif %}
     <main>
         <h1>#Blackout21</h1>
 
