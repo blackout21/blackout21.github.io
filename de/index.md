@@ -12,25 +12,7 @@ und am 21. März bei dem Online-Protest gegen [die EU-Urheberrechtsreform][2] mi
 
 ### Was kann ich am 23. März tun?
 
-> #### <span class="fa fa-users"></span> Jeder
-> 
-> Lade ein schwarzes Profilbild auf allen sozialen Netzwerken hoch,
-> auf denen du aktiv bist, um ein Zeichen zu setzen. 
-
-> #### <span class="fa fa-globe"></span> Webseitenbetreiber
-> 
-> Ihr werdet darum gebeten, in Form einer prominenten Meldung, auf eurer
-> Website aufmerksam zu machen. Hier findet ihr Möglichkeiten dies zu tun.
-
-> #### <span class="fa fa-video-camera"></span> Streamer
-> 
-> Ihr könnt leider keinen Blackscreen senden, da dies nicht gestattet ist.
-> Ihr könnt aber an dem Tag mitmachen, indem ihr im Stream darüber aufklärt.
-
-> #### <span class="fa fa-youtube-play"></span> YouTuber
-> 
-> Schaltet am 21. März um 14:00 Uhr ein Video frei, in welchen 
-> ihr auf die Demos aufmerksam macht.
+{% include target_de.html %}
 
 ### Was kann ich außerdem tun?
 
