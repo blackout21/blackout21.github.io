@@ -21,7 +21,7 @@
   <header class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary">
     <div class="container">
       {% if page.language == "de" %}
-        <a href="" class="navbar-brand">#Blackout21</a>
+        <a href="{{ '/de/' | relative_url }}" class="navbar-brand">#Blackout21</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
@@ -34,7 +34,7 @@
 
           <ul class="nav navbar-nav ml-auto">
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" data-toggle="language" href="#" id="language">Sprache <span class="caret"></span></a>
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="language">Sprache <span class="caret"></span></a>
               <div class="dropdown-menu" aria-labelledby="language">
                 <a href="{{ '/' | relative_url }}" class="dropdown-item">Englisch</a>
                 <a href="{{ '/de/' | relative_url }}" class="dropdown-item active">Deutsch</a>
@@ -43,7 +43,7 @@
           </ul>
         </div>
       {% else %}
-        <a href="" class="navbar-brand">#Blackout21</a>
+        <a href="{{ '/' | relative_url }}" class="navbar-brand">#Blackout21</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
@@ -56,7 +56,7 @@
 
           <ul class="nav navbar-nav ml-auto">
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" data-toggle="language" href="#" id="language">Language <span class="caret"></span></a>
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="language">Language <span class="caret"></span></a>
               <div class="dropdown-menu" aria-labelledby="language">
                   <a href="{{ '/' | relative_url }}" class="dropdown-item active">English</a>
                   <a href="{{ '/de/' | relative_url }}" class="dropdown-item">German</a>
