@@ -1,0 +1,5 @@
+* [Save the internet](https://savetheinternet.info/blackout/)
+* [blackout21.eu](https://blackout21.eu/)
+* [Phantast*innen gegen Artikel 13](https://pga13.eu/)
+* [Blackout21_EU Twitter Account](https://twitter.com/Blackout21_EU)
+* [Piratenpartei](https://de.wordpress.org/plugins/saveyourinternet-protest-page/)
