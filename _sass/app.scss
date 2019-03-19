@@ -46,7 +46,7 @@ h4 {
 }
 
 pre.highlight {
-  border: 1px solid #282828;
+  background: #282828;
   border-radius: 4px;
   padding: 10px;
 
@@ -62,10 +62,15 @@ pre.highlight {
 
 code {
   color: #fff;
+  background: #282828;
 }
 
 .bordered-image {
   border: 1px solid #282828;
+}
+
+.image-link, .image-link:link, .image-link:hover, .image-link:focus {
+  text-decoration: none;
 }
 
 a.imprint, a.imprint:link, a.imprint:hover, a.imprint:focus, a.imprint:active {

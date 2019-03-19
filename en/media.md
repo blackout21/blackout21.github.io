@@ -27,15 +27,18 @@ There are some banners, which informs users about the protests against Article 1
 
 ### Static blackout pages
 
-Using a static blackout page, you can inform your visitors about the protests and the EU copyright directive 
-against Article 13 (and also 11 and 12) on March 21st.
+You can inform your visitors easily about the protests and the EU copyright directive using a static blackout page.
 
-There a different versions. You can just copy you favorite version to your webserver or redirect to our version!
-
+There are different versions. You can just copy you favorite version to your webserver or redirect to our version!
 The `blank` versions work without any external resources. It's pure HTML with some inline CSS. For the `wallpaper`
 versions you need the additional `wallpaper.jpg`.
 
 {% include static_pages.html %}
+
+If you need any help, please contact <a href="https://twitter.com/Blackout21_EU">Blackout21_EU</a> on Twitter.
+
+
+#### PHP
 
 Small PHP code snippet (just copy it to your `index.php` or `wp-include.php`). You can modify the date (`2019-03-21`), if
 you want to test it.
@@ -48,6 +51,9 @@ if ('2019-03-21' === (new \DateTime())->format('Y-m-d')) {
 }
 ```
 
+
+#### HTML
+
 You can also use simple **HTML** meta tag to redirect your visitors:
 
 ```html
@@ -55,18 +61,14 @@ You can also use simple **HTML** meta tag to redirect your visitors:
 <meta http-equiv="refresh" content="0; url=https://blackout21.github.io/blackout-static-pages/blackout_en.html">
 ```
 
+
+#### JavaScript
+
 And you can additionally use a single line of **JavaScript**, too:
 
-```js
+```html
 <script>location.href = "https://blackout21.github.io/blackout-static-pages/blackout_en.html";</script>
 ```
-
-If you are unsure or worried by the server location, you could
-
-* upload the script to your own server
-* or use version by _blackout21.eu_: `https://blackout21.eu/static/syi-widget.js`.
-
-If you need any help, please contact <a href="https://twitter.com/Blackout21_EU">Blackout21_EU</a> on Twitter.
 
 
 ### Widget
@@ -76,9 +78,16 @@ script on your page, the popup will only show on March 21st. You can also test i
 page's URL). You can put this code snippet everywhere on your page (`head` or `body`) – but we recommend to place it
 right before `</body>`. **Warning:** Some sites does not allow custom JavaScript (like free version of WordPress.com)!
 
+Click on "Preview" to see this widget in action on our page.
+
 {% include widget.md %}
 
 This widget is *open source*. So you can [explore the code][3], [use it via npm][4] or [contribute to it][5]!
+
+If you are unsure or worried by the server location, you could
+
+* upload the script to your own server
+* or use version by _blackout21.eu_: `https://blackout21.eu/static/syi-widget.js`.
 
 
 [1]: https://de.wikipedia.org/wiki/Wikipedia:Meinungsbilder/Protest_gegen_EU-Urheberrechtsreform

@@ -32,12 +32,16 @@ Mit einer statischen Blackout-Seite kannst du deine Besucher am einfachsten übe
 (sowie 11 und 12) und die EU-Urheberrechtsreform informieren!
 
 Es gibt verschiedene Versionen für die Blackout-Seiten. Bitte einfach deine bevorzugte Version auf deinen Webserver
-kopieren oder auf unsere Variante weiterleiten.
-
-Die `blank`-Varianten funktionieren ohne weitere Dateien. Diese bestehen nur aus dem HTML-Code mit etwas inkludiertem CSS.
-Für die `wallpaper`-Varianten benötigst du evtl. das Bild `wallpaper.jpg`.
+kopieren oder auf unsere Variante weiterleiten. Die `blank`-Varianten funktionieren ohne weitere Dateien.
+Diese bestehen nur aus dem HTML-Code mit etwas inkludiertem CSS. Für die `wallpaper`-Varianten benötigst 
+du evtl. das Bild `wallpaper.jpg`.
 
 {% include static_pages.html %}
+
+Falls du Hilfe benötigst, kontaktiere bitte <a href="https://twitter.com/Blackout21_EU">Blackout21_EU</a> auf Twitter.
+
+
+#### PHP
 
 Kleiner PHP Code-Schnipsel (einfach in die `index.php` oder in die `wp-include.php` kopieren).
 Falls du das Skript testen möchtest einfach das Datum verändern (`2019-03-21`).
@@ -50,6 +54,9 @@ if ('2019-03-21' === (new \DateTime())->format('Y-m-d')) {
 }
 ```
 
+
+#### HTML
+
 Man kann auch eine Zeile **HTML** seiner Seite hinzufügen:
 
 ```html
@@ -57,13 +64,14 @@ Man kann auch eine Zeile **HTML** seiner Seite hinzufügen:
 <meta http-equiv="refresh" content="0; url=https://blackout21.github.io/blackout-static-pages/blackout_de.html">
 ```
 
+
+#### JavaScript
+
 Und man kann ebenso einfach eine Zeile **JavaScript** irgendwo auf seiner Seite platzieren:
 
-```js
+```html
 <script>location.href = "https://blackout21.github.io/blackout-static-pages/blackout_en.html";</script>
 ```
-
-Falls du Hilfe benötigst, kontaktiere <a href="https://twitter.com/Blackout21_EU">Blackout21_EU</a> auf Twitter.
 
 
 ### Widget
@@ -72,7 +80,9 @@ Wenn du nicht deine komplette Seite abschalten möchtest, wird ebenso ein Popup 
 zeigen wird. Um dies vorab zu testen, kann man einfach `#showsaveyourinternet` zur URL hinzufügen. Der Code lässt sich
 überall auf der Webseite platzieren (im `head`- oder `body`-Bereich) – aber wir empfehlen den Code direkt vor dem
 schließenden `</body>` zu platzieren. **Hinweis:** Einige Seiten (wie bspw. die kostenlose Version von WordPress.com)
-erlauben kein eigenes JavaScript.
+erlauben leider kein eigenes JavaScript.
+
+Klicke auf "Preview", falls du wissen willst, wie das Widget auf unserer Seite damit aussieht.
 
 {% include widget.md %}
 
