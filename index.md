@@ -24,4 +24,4 @@ everyone about the new [EU Copyright directive][2].
 [2]: https://saveyourinternet.eu/
 [3]: https://saveyourinternet.eu/de/
 [4]: https://savetheinternet.info/demos
-[5]: https://pledge2019.eu
+[5]: http://www.europarl.europa.eu/at-your-service/en/be-heard/elections
