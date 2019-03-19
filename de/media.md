@@ -7,7 +7,8 @@ language: de
 ## Medien
 
 Jeder kann die Idee von Wikipedia unterstützen mit den Hochladen eines schwarzen Profilbildes oder
-mit dem Abschalten seiner Webseite.
+mit dem Abschalten seiner Webseite. Weiter unten findet man Code-Snippets für HTML, JavaScript oder
+PHP.
 
 
 ### Profilbild
@@ -81,6 +82,11 @@ schließenden `</body>` zu platzieren. **Hinweis:** Einige Seiten (wie bspw. die
 erlauben kein eigenes JavaScript.
 
 {% include widget.md %}
+
+Wenn du dir unsicher auf Grund des Server-Standortes bist, kannst du
+
+* entweder das Skript auf deinen Server hochladen und verlinken
+* oder die Version von _blackout21.eu_ benutzen: `https://blackout21.eu/static/syi-widget.js`.
 
 Da das Widget *Open Source* ist, kannst den Source Code auch [jederzeit einsehen][3], via [NPM einbinden][4] oder [daran mitwirken][5].
 

@@ -7,7 +7,7 @@ language: en
 ## Media
 
 Everyone can support Wikipedia's online protest by uploading a black profile picture or by shutting down their
-own website.
+own website. You will also find code snippets for JavaScript, HTML and PHP below.
 
 
 ### Profile picture
@@ -67,6 +67,11 @@ And you can additionally use a single line of **JavaScript**, too:
 ```js
 <script>location.href = "https://blackout21.github.io/blackout-static-pages/blackout_en.html";</script>
 ```
+
+If you are unsure or worried by the server location, you could
+
+* upload the script to your own server
+* or use version by _blackout21.eu_: `https://blackout21.eu/static/syi-widget.js`.
 
 If you need any help, please contact <a href="https://twitter.com/Blackout21_EU">Blackout21_EU</a> on Twitter.
 

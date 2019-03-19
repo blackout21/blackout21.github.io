@@ -52,3 +52,7 @@ a.imprint, a.imprint:link, a.imprint:hover, a.imprint:focus, a.imprint:active {
   color: #888;
   text-decoration: none;
 }
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255,255,255,0.8);
+}
