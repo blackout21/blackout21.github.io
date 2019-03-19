@@ -1,6 +1,11 @@
 body {
   padding-top: 100px;
   font: normal 16px/22px "Source Sans Pro", Arial, Helvetica, sans-serif;
+  color: #fff;
+}
+
+footer {
+  color: #888;
 }
 
 .navbar-brand {
@@ -23,6 +28,10 @@ footer {
 h2, h3 {
   font-size: 20px;
   line-height: 28px;
+}
+
+h2, h3, h4, h5 {
+  font-weight: 600;
 }
 
 pre.highlight {
@@ -54,5 +63,6 @@ a.imprint, a.imprint:link, a.imprint:hover, a.imprint:focus, a.imprint:active {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: rgba(255,255,255,0.8);
+  color: #fff;
 }
+
