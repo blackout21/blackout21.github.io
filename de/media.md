@@ -42,6 +42,21 @@ if ('2019-03-21' === (new \DateTime())->format('Y-m-d')) {
 }
 ```
 
+Man kann auch eine Zeile **HTML** seiner Seite hinzufügen:
+
+```html
+<!-- add this to your head tag -->
+<meta http-equiv="refresh" content="0; url=https://blackout21.github.io/blackout-static-pages/blackout_de.html">
+```
+
+Und man kann ebenso einfach eine Zeile **JavaScript** irgendwo auf seiner Seite platzieren:
+
+```js
+<script>location.href = "https://blackout21.github.io/blackout-static-pages/blackout_en.html";</script>
+```
+
+Falls du Hilfe benötigst, kontaktiere <a href="https://twitter.com/Blackout21_EU">Blackout21_EU</a> auf Twitter.
+
 
 ### Widget
 
