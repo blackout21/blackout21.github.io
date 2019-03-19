@@ -2,6 +2,8 @@
 
 #### English (EN)
 
+[Preview](https://blackout21.github.io/#showsaveyourinternet)
+
 ```js
 <script>
     const SAVE_YOUR_INTERNET_CONFIG = {
@@ -13,6 +15,8 @@
 ```
 
 #### German (DE)
+
+[Preview](https://blackout21.github.io/de/#showsaveyourinternet)
 
 ```js
 <script>

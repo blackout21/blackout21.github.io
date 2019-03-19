@@ -43,3 +43,12 @@ pre.highlight {
 code {
   color: #fff;
 }
+
+.bordered-image {
+  border: 1px solid #282828;
+}
+
+a.imprint, a.imprint:link, a.imprint:hover, a.imprint:focus, a.imprint:active {
+  color: #888;
+  text-decoration: none;
+}
