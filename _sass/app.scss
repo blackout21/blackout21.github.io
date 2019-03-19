@@ -77,3 +77,11 @@ a.imprint, a.imprint:link, a.imprint:hover, a.imprint:focus, a.imprint:active {
   color: #fff;
 }
 
+.card.bg-light {
+  background-color: #060606 !important;
+  border-color: #888;
+
+  .card-header {
+    border-color: #888;
+  }
+}

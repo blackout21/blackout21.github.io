@@ -25,13 +25,6 @@ There are some banners, which informs users about the protests against Article 1
 {% include banners.html %}
 
 
-### Story images
-
-You can use this picture to use as story on WhatsApp, Snapchat, Instagram or Facebook:
-
-{% include stories.html %}
-
-
 ### Static blackout pages
 
 Using a static blackout page, you can inform your visitors about the protests and the EU copyright directive 

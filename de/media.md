@@ -26,13 +26,6 @@ Hier sind einige Banner, die über den Online-Protest am 21. März informieren:
 {% include banners.html %}
 
 
-### Story-Bilder
-
-Diese Bilder kannst du am 21. März als Story bei WhatsApp, Snapchat, Instagram oder Facebook hochladen:
-
-{% include stories.html %}
-
-
 ### Statische HTML-Blackout-Seiten
 
 Mit einer statischen Blackout-Seite kannst du deine Besucher am einfachsten über die Proteste gegen Artikel 13
