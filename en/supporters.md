@@ -13,6 +13,6 @@ Those pages will shutdown their pages partially or fully on March, 21st:
 
 ### Other pages wich supports the Blackout
 
-We are not alone. There are other pages, which supports the Blackout on March 21st, 2019:21. März unterstützen:
+We are not alone. There are other pages, which supports Wikipedia's Blackout on March 21st, 2019:
 
 {% include blackout.md %}

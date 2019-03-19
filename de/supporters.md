@@ -13,6 +13,6 @@ Viele Seiten sind gegen die Urheberrechtsreformen der EU, und wollen Wikipedia e
 
 ### Weitere Seiten, die über den Blackout informieren!
 
-Wir sind nicht alleine. Es gibt viele weitere Aktionen, die den Blackout am 21. März unterstützen:
+Wir sind nicht alleine. Es gibt viele weitere Aktionen, die den Blackout von Wikipedia am 21. März unterstützen und bewerben:
 
 {% include blackout.md %}
