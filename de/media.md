@@ -4,10 +4,10 @@ description: Benutze unsere Resourcen, um an den Online-Protesten am 21. März t
 language: de
 ---
 
-## Media
+## Medien
 
-Everyone can support Wikipedia's online protest by uploading a black profile picture or by shutting down your
-own website.
+Jeder kann die Idee von Wikipedia unterstützen mit den Hochladen eines schwarzen Profilbildes oder
+mit dem Abschalten seiner Webseite.
 
 ### Statische HTML-Blackout-Seiten
 
