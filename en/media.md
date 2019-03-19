@@ -16,7 +16,7 @@ There a different versions. You can just copy you favorite version to your webse
 The `blank` versions work without any external resources. It's pure HTML with some inline CSS. For the `wallpaper`
 versions you need the additional `wallpaper.jpg`.
 
-{% include static_pages.md %}
+{% include static_pages.html %}
 
 Small PHP code snippet (just copy it to your `index.php` or `wp-include.php`). You can modify the date (`2019-03-21`), if
 you want to test it.

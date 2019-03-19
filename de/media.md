@@ -17,7 +17,7 @@ kopieren oder auf unsere Variante weiterleiten.
 Die `blank`-Varianten funktionieren ohne weitere Dateien. Diese bestehen nur aus dem HTML-Code mit etwas inkludiertem CSS.
 Für die `wallpaper`-Varianten benötigst du evtl. das Bild `wallpaper.jpg`.
 
-{% include static_pages.md %}
+{% include static_pages.html %}
 
 Kleiner PHP Code-Schnipsel (einfach in die `index.php` oder in die `wp-include.php` kopieren).
 Falls du das Skript testen möchtest einfach das Datum verändern (`2019-03-21`).
