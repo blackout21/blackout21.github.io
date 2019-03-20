@@ -19,6 +19,13 @@ schwarzes Profilbild zur Hand hast, kannst du dich auch bei uns bedienen!
 {% include profile_pictures.html %}
 
 
+### Story-Bilder
+
+Diese Bilder kannst du am 21. März als Story bei WhatsApp, Snapchat, Instagram oder Facebook hochladen:
+
+{% include stories.html %}
+
+
 ### Banner
 
 Hier sind einige Banner, die über den Online-Protest am 21. März informieren:

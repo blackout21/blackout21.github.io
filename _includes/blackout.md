@@ -2,4 +2,4 @@
 * [blackout21.eu](https://blackout21.eu/)
 * [Phantast*innen gegen Artikel 13](https://pga13.eu/)
 * [Blackout21_EU Twitter Account](https://twitter.com/Blackout21_EU)
-* [Piratenpartei](https://de.wordpress.org/plugins/saveyourinternet-protest-page/)
+* [Piratenpartei](https://www.piratenpartei.de/2019/03/19/urheberrechtsreform-piratenpartei-ruft-zur-teilnahme-am-wikipedia-protest-auf-und-stellt-wordpress-plugin-zur-verfuegung/)

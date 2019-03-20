@@ -2,3 +2,4 @@
 * [Phantast*innen gegen Artikel 13 (role play blogs and communities)](https://pga13.eu/)
 * [Wikipedia (German)](https://de.wikipedia.org/wiki/Wikipedia:Meinungsbilder/Protest_gegen_EU-Urheberrechtsreform)
 * [Zentrale für Unterrichtsmedien im Internet e.V.](https://www.zum.de/portal/)
+* [Piratenpartei](https://www.piratenpartei.de/2019/03/19/urheberrechtsreform-piratenpartei-ruft-zur-teilnahme-am-wikipedia-protest-auf-und-stellt-wordpress-plugin-zur-verfuegung/)

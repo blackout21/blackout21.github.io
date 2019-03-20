@@ -18,6 +18,13 @@ picture, you can just use this one:
 {% include profile_pictures.html %}
 
 
+### Story images
+
+You can use this picture to use as story on WhatsApp, Snapchat, Instagram or Facebook:
+
+{% include stories.html %}
+
+
 ### Banners
 
 There are some banners, which informs users about the protests against Article 13:
