@@ -26,6 +26,18 @@ Hier sind einige Banner, die über den Online-Protest am 21. März informieren:
 {% include banners.html %}
 
 
+### Twitch
+
+Auch alle Streamer auf Twitch sind dazu eingeladen, sich am 21. März zu beteiligen. Hierzu kann man in den Streams Einblendungen
+anzeigen, welche die Zuschauer auf die Proteste gegen Artikel 13 aufmerksam machen!
+
+Twitch-Streamer können diese Banner bzw. Overlays permanent einblenden oder in bestimmten Intervallen! Es gibt dabei zwei
+Versionen. Für eine sollte ein Bot konfiguriert werden, der auf "!Artikel13" reagiert; die andere Version verweist auf
+die Demo-Übersichts-Seite von [Save The Internet](https://bit.ly/a13demos).
+
+{% include twitch.html %}
+
+
 ### Statische HTML-Blackout-Seiten
 
 Mit einer statischen Blackout-Seite kannst du deine Besucher am einfachsten über die Proteste gegen Artikel 13
